@@ -69,11 +69,28 @@ input {
   border-radius: 25px;
   box-shadow: 1px 5px 10px 5px #e7f253;
   background-color: black;
+  padding-top: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
 }
 
 p {
   text-align: center;
   text-shadow: 1px 5px 10px #e7f253;
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+main {
+  border-radius: 10px;
+  box-shadow: 1px 5px 10px 5px #e7f253;
+  padding-top: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  width: 250%;
+  height: 550%;
+  margin: auto;
 }
 
 @media (prefers-color-scheme: light) {
